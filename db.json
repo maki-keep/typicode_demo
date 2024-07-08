@@ -1,14 +1,51 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    {
+      "attachments": [
+        {
+          "alt": "owl123",
+          "src": "https://raw.githubusercontent.com/maki-keep/typicode_demo/master/birds/2_0.jpg"
+        }
+      ],
+      "content": "Helloo! Whoo's here?",
+      "id": "1",
+      "user": "owl123"
+    },
+    {
+      "attachments": [],
+      "content": "The sun is rising, soo I'm going too take a flight.",
+      "id": "2",
+      "user": "owl123"
+    },
+    {
+      "attachments": [],
+      "content": "Kotori is Baby Bird too.",
+      "id": "3",
+      "user": "kotorichunchun"
+    },
+    {
+      "attachments": [],
+      "content": "Whoo says Kotori is a Bird too?",
+      "id": "4",
+      "user": "owl123"
+    },
+    {
+      "attachments": [
+        {
+          "alt": "kotorichunchun",
+          "src": "https://raw.githubusercontent.com/maki-keep/typicode_demo/master/birds/5_0.png"
+        },
+        {
+          "alt": "kotorichunchun",
+          "src": "https://raw.githubusercontent.com/maki-keep/typicode_demo/master/birds/5_1.jpg"
+        }
+      ],
+      "content": "これはことりです。",
+      "id": "5",
+      "user": "kotorichunchun"
+    }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "makikeep"
   }
 }
