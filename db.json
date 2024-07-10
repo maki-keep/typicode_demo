@@ -4,45 +4,70 @@
       "attachments": [
         {
           "alt": "owl123",
-          "src": "https://raw.githubusercontent.com/maki-keep/typicode_demo/master/birds/2_0.jpg"
+          "src": "https://raw.githubusercontent.com/maki-keep/typicode_demo/master/birds/20240708064613837_0.jpg"
         }
       ],
       "content": "Helloo! Whoo's here?",
-      "id": "1",
-      "user": "owl123"
+      "id": "20240708064613837",
+      "timestamp": "2024-07-08T06:46:13.837Z",
+      "author": {
+        "avatar": "https://raw.githubusercontent.com/maki-keep/typicode_demo/master/birds/20240708064613837_0.jpg",
+        "name": "owl123",
+        "url": ""
+      }
     },
     {
       "attachments": [],
       "content": "The sun is rising, soo I'm going too take a flight.",
-      "id": "2",
-      "user": "owl123"
+      "id": "20240708065128122",
+      "timestamp": "2024-07-08T06:51:28.122Z",
+      "author": {
+        "avatar": "https://raw.githubusercontent.com/maki-keep/typicode_demo/master/birds/20240708064613837_0.jpg",
+        "name": "owl123",
+        "url": ""
+      }
     },
     {
       "attachments": [],
       "content": "Kotori is Baby Bird too.",
-      "id": "3",
-      "user": "kotorichunchun"
+      "id": "20240708161652760",
+      "timestamp": "2024-07-08T16:16:52.760Z",
+      "author": {
+        "avatar": "https://raw.githubusercontent.com/maki-keep/typicode_demo/master/birds/20210716030912000_0.jpg",
+        "name": "kotorichunchun",
+        "url": ""
+      }
     },
     {
       "attachments": [],
       "content": "Whoo says Kotori is a Bird too?",
-      "id": "4",
-      "user": "owl123"
+      "id": "20240708223816243",
+      "timestamp": "2024-07-08T22:38:16.243Z",
+      "author": {
+        "avatar": "https://raw.githubusercontent.com/maki-keep/typicode_demo/master/birds/20240708064613837_0.jpg",
+        "name": "owl123",
+        "url": ""
+      }
     },
     {
       "attachments": [
         {
           "alt": "kotorichunchun",
-          "src": "https://raw.githubusercontent.com/maki-keep/typicode_demo/master/birds/5_0.png"
+          "src": "https://raw.githubusercontent.com/maki-keep/typicode_demo/master/birds/20240708224528746_0.png"
         },
         {
           "alt": "kotorichunchun",
-          "src": "https://raw.githubusercontent.com/maki-keep/typicode_demo/master/birds/5_1.jpg"
+          "src": "https://raw.githubusercontent.com/maki-keep/typicode_demo/master/birds/20240708224528746_1.jpg"
         }
       ],
       "content": "これはことりです。",
-      "id": "5",
-      "user": "kotorichunchun"
+      "id": "20240708224528746",
+      "timestamp": "2024-07-08T22:45:28.746Z",
+      "author": {
+        "avatar": "https://raw.githubusercontent.com/maki-keep/typicode_demo/master/birds/20210716030912000_0.jpg",
+        "name": "kotorichunchun",
+        "url": ""
+      }
     }
   ],
   "profile": {
